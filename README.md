@@ -28,4 +28,4 @@ This project analyzes historical sales data to identify trends, top-performing p
 
 ## 📈 Sample Forecast Output
 
-_(Placeholder for forecast chart image)_
+<img width="1000" height="600" alt="sales_forecast" src="https://github.com/user-attachments/assets/3e5b93f9-4972-4192-b652-d441c180cc59" />
